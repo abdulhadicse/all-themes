@@ -1,0 +1,23 @@
+/*
+Theme Name: Simple Shop - WooCommerce Theme
+Theme URI: https://github.com/abdulhadicse/all-themes/simple-shop-woocommerce-theme
+Author: Abdul Hadi
+Author URI: http://www.abdulhadi.info
+Description: WooCommerce Simple Shop is clean and simple by design, the perfect starting point from which to customize and match your brand and store. 
+Requires at least: 4.9.6
+Requires PHP: 5.2.4
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: shop-factory
+Tags: one-column, flexible-header, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, rtl-language-support, sticky-post, threaded-comments, translation-ready, block-patterns
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/* style */
+
+ul#menu {
+    margin-bottom: 20px;
+}

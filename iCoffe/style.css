@@ -1,0 +1,41 @@
+/*
+Theme Name: iCoffe
+Theme URI: https://www.github.com/abdulhadicse/icoffe
+Author: Abdul Hadi
+Author URI: https://abdulhadi.info
+Description: A simple blog icoffe theme.
+Requires at least: 5.3
+Tested up to: 5.6
+Requires PHP: 5.6
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: icoffe
+Tags: one-column, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, block-patterns, rtl-language-support, sticky-post, threaded-comments, translation-ready
+*/
+
+
+.col-md-6.abt-left a img {
+    height: 200px;
+}
+
+a.single_img img{
+	height: 500px;
+}
+
+.comment-author.vcard img {
+    width: 50px;
+    height: auto;
+}
+
+
+
+.comment-body {
+    margin: 30px 0px;
+}
+
+mark, .mark {
+
+    background: #ff0 !important;
+
+}
